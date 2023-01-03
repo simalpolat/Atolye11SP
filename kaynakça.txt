@@ -1,2 +1,20 @@
+Kelime  seçme:
 https://www.4resim1kelime.com/adam-asmaca-cevaplari-hayvanlar/
+
+İmagelist:
 https://learn.microsoft.com/tr-tr/dotnet/api/system.windows.forms.imagelist?view=windowsdesktop-7.0
+
+MessageBox:
+https://alkanfatih.com/messagebox-kullanimi-ve-ozellikleri/
+https://learn.microsoft.com/tr-tr/dotnet/api/system.windows.forms.messageboxicon?view=windowsdesktop-7.0
+
+Method:
+https://www.youtube.com/watch?v=mI1UMzRTEAY
+https:/https://www.kodkampusu.com/csharp-metotlar/
+https://www.yazilimkodlama.com/programlama/c-metotlar-ve-metot-ornekleri/
+https://learn.microsoft.com/tr-tr/dotnet/api/system.string.toupper?view=net-7.0
+https://www.geeksforgeeks.org/c-sharp-toupper-method/
+
+Yardım Eden arkaşlarımıda eklemezsem haksızlık olurdu <3
+74 Yavuz Uysal  
+93-2 Çınar Çok 
